@@ -18,5 +18,12 @@
     <ClCompile Include="FirstSolution.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="SecondSolution.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+    <None Include="README.MD" />
   </ItemGroup>
 </Project>
